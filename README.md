@@ -1,4 +1,4 @@
-[![Run App Noah Whyrick](https://github.com/nowhyrick/GithubActions/actions/workflows/run-app.yaml/badge.svg)](https://github.com/nowhyrick/GithubActions/actions/workflows/run-app.yaml)
+[![Run App Noah Whyrick](https://github.com/nowhyrick/GithubActions/actions/workflows/run-app.yaml/badge.svg?branch=dev)](https://github.com/nowhyrick/GithubActions/actions/workflows/run-app.yaml)
 
 # Do not submit a pull request to `kgerot/GithubActions` or `dteske/TraviCI`. Not following this instruction can ruin the lab for others, so pay attention.
 
