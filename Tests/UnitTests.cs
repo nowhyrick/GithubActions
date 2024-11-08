@@ -106,10 +106,9 @@ namespace GithubActionsLab
         [Test]
         public void Power_ValidNoahWhyrick()
         {
-            // Will fail (I want it to)
-            Assert.AreEqual(2, Program.Power("6", "3"));
-            Assert.AreEqual(2, Program.Power("20", "10"));
-            Assert.AreEqual(70, Program.Power("70", "1"));
+            Assert.AreEqual(8, Program.Power("2", "3"));
+            Assert.AreEqual(20, Program.Power("20", "1"));
+            Assert.AreEqual(1, Program.Power("70", "0"));
         }
 
         [Test]
